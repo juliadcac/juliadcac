@@ -6,7 +6,7 @@ Eu sou a Júlia Cavalcante,
  
  Estou aprendendo HTML/CSS e JavaScript
  
-[![Linkedin Badge](https://img.shields.io/badge/-JúliaCavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-JúliaCavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/j%C3%BAlia-cavalcante-1b35927b/) 
  
  
  

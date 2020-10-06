@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-Eu sou a Júlia Cavalcante,
+Eu sou a Júlia Amorim,
 
  Estou trabalhando como bolsista em pesquisa no IFSC-Florianópolis onde Curso a 3ª fase de Gestão da Tecnologia da Informação.
  
